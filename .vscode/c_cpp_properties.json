@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "name": "PROS Project",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "c:\\Users\\rithv\\OneDrive\\Desktop\\CS\\VEX\\korvex_spinup_2022-main\\include"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "c:\\Users\\rithv\\AppData\\Roaming\\Code\\User\\globalStorage\\sigbots.pros\\install\\pros-toolchain-windows\\usr\\bin\\arm-none-eabi-g++",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "gcc-arm",
+      "compileCommands": "c:\\Users\\rithv\\OneDrive\\Desktop\\CS\\VEX\\korvex_spinup_2022-main\\compile_commands.json",
+      "browse": {
+        "path": [
+          "c:\\Users\\rithv\\OneDrive\\Desktop\\CS\\VEX\\korvex_spinup_2022-main"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+      }
+    }
+  ],
+  "version": 4
+}
